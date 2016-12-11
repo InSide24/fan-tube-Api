@@ -1,6 +1,6 @@
 # fan-tube-Api
-<center> <font color="red">API For Fan-Tube.de</font><br>
-// Created by Raphael Roth (InSide24)<br>
+<center> <font color="red">API For Fan-Tube.de</font><br><br>
+// Created by Raphael Roth (InSide24)<br><br>
 To Install the API make following:<br>
 1. Upload all Files in to your Public_Html directory.<br>
 2. Edit the file api.fan-tube.v1.php and set your APIkey.<br>
